@@ -30,6 +30,8 @@ Constraints:
 
 /* SOLUTION (C++) */
 
+Using KADANE'S ALGO. : It states that eliminate the subarray which has -ve sum and start from the element next to it 
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums){
