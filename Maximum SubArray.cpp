@@ -1,4 +1,4 @@
-<!-- Maximum Subarray -->
+/* Maximum Subarray 
 
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
@@ -24,11 +24,11 @@ Output: 23
 Constraints:
 
 1 <= nums.length <= 105
--104 <= nums[i] <= 104
+-104 <= nums[i] <= 104    */
  
 
 
-SOLUTION (C++)
+/* SOLUTION (C++) */
 
 class Solution {
 public:
