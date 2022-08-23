@@ -15,3 +15,6 @@ class Solution {
         return max;
     }
 }
+
+Runtime: 5 ms
+Memory Usage: 42.7 MB
