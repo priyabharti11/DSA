@@ -31,7 +31,7 @@ Output: Minimum Difference is 10
 
 Explanation:
 
-We need to pick 7 packets. We pick 40, 41, 
+We need to pick 7 packets. We pick 40,41, 
 42, 44, 48, 43 and 50 to minimize difference 
 between maximum and minimum. 
 
