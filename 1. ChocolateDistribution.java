@@ -94,6 +94,6 @@ class Solution
         {
            min_diff= Math.min(min_diff, (a.get(i+m-1)-a.get(i)));
         }
-        return min_diff;
+        return min_diff ;
     }
 }
