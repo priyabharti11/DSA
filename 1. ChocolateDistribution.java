@@ -21,7 +21,7 @@ sizes.
 Input : arr[] = {3, 4, 1, 9, 56, 7, 9, 12} , m = 5 
 Output: Minimum Difference is 6 
 Explanation:
-The set goes like 3,4,7,9,9 and the output 
+The set goes like 3,4,7,9,9 and the  output 
 is 9-3 = 6
 
 Input : arr[] = {12, 4, 7, 9, 2, 23, 25, 41, 
