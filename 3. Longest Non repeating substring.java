@@ -12,7 +12,7 @@ class Solution {
             map.put(s.charAt(i),i);
             max=Math.max(max,i-j+1);
         }
-        return max;
+        return max ;
     }
 }
 
