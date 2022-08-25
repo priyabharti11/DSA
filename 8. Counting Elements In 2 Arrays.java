@@ -100,7 +100,7 @@ class Solution
     }
 }
 
-# ALGO :
+# ALGO :: Total Time Taken: 5.78s
 
 1. Create an Empty ArraList 
 2. Sort The Second Array, arr2.
